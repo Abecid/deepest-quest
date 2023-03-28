@@ -1,0 +1,47 @@
+Here are the classifications for the given tweets:
+
+    [0.] she took that niggah talent like the MOnstars.https://twitter.com/SoloDahSystem/status/732566075347505152 … : 100.0
+    [1.] RT thecjpearson: A quick history lesson on white nationalism from a 15 year old black realDonaldTrump supporter. # https://t.co/iLNGxZSqZl : 100.0
+    [2.] @realDonaldTrump "I gave a dollar to a homeless guy and he still hasn't pledged everlasting loyalty to me. Bad!" : 100.0
+    [3.] Wedding and honeymoon inside a camp: 2,000 #Yezidi refugees tie the knot  https://t.co/2PgMNwe7Gb https://t.co/ArXG8QVfaE : 0.0
+    [4.] Brian Kilmeade on NFL Protesters The Only People Losing Are The Fans https://t.co/ALkayHvoKC : 100.0
+    [5.] #Iraq \| New #ISIS POV video from "Wilayat al-Furat" shows combat against Iraqi forces.  https://t.co/My3WHmpgBG https://t.co/MpjQuBhgk4 : 100.0
+    [6.] The Biggest Concern at Twitter: Where Does the Platform Go Next? http://bit.ly/1OB5bD2  #SMM #business #startup : 0.0
+    [7.] 3 is smaller than 4 https://t.co/NOTfCnlqWO : 0.0
+    [8.] Sylvia McLaughlin, last living founder of Save the Bay, dies at age 99  #news : 0.0
+    [9.] hi i jUst want to warning    you guys.. i am a weed snoker .thats right 4 20 im proud . look at my blunt in piCTUREpic.twitter.com/xQ4BQvZiPp : 100.0
+    [10.] New podcast on EBRD investment in Russia, Ukraine reform and foreign investment http://j.mp/ebrd-podcast-2 pic.twitter.com/5ZYWiMFnu1 : 0.0
+    [11.] , just got off the bridge . : 0.0
+    [12.] Tap: A wearable keyboard that turns everything you touch into a typing surface http://btl.st/23W2s8R pic.twitter.com/nDKCSMI4Vp : 0.0
+    [13.] It's amazing how most American A list Hollywood stars started out as Child Stars... : 0.0
+    [14.] Police Seek Suspect In Shooting Near Cal Us Campus  #news : 100.0
+    [15.] Be frustrated when things don't move! DEMAND bigger challenges for and FROM yourself!
+
+    Complacency is dangerous. Mediocrity even more. : 0.0
+    [16.] Zombies take over Monroeville again  #local : 100.0
+    [17.] Have a big #ShawnWorldTour announcement in a few minutes ! : 0.0
+    [18.] Nicki Minaj road crew member killed  #entertainment : 100.0
+    [19.] Dear American Progressives, see your future, be your future.   #ThisIsACoup : 100.0
+    [20.] '@jomo32284 The #Libtards wanted Trump because he was beatable. @ChrisSl66335686 @OregonWolfman @tedcruz @JFABtm @jc1ndiana @PeculiarBaptist' : 100.0
+    [21.] CAN THE RAIN PLEASE LEAVE LIKE SERIOUSLY : 0.0
+    [22.] We Gotta Get It! You My Ass Goals Ok : 0.0
+    [23.] Santa Cruz shooting left victims targeted in a car with no leads on suspect  #news : 100.0
+    [24.] Immigration Reformers: Three Big Reasons to Oppose DACA Re-Amnesty https://t.co/Pp6BK9hYb1 https://t.co/9SO5He6RWa : 100.0
+    [25.] #DontTellYourFather that your nephews don't wear pants http://t.co/rKeFLiXPbd : 100.0
+    [26.] Whoa!https://twitter.com/DJCincoPBeatz/status/732450943946481664 … : 0.0
+    [27.] Want your music/video included in our feed..? All u need is $5 https://t.co/dfvvyY9x3g https://t.co/sCUiIsWoHx : 100.0
+    [28.] watch out now : 0.0
+    [29.] #IStartCryingWhen the chocolate runs out : 0.0
+    [30.] When you fail your ac lab final : 0.0
+    [31.] President Obama almost gives school kids heart attack with surprise visit and message of encouragement. I miss him so much!  #FlashbackFriday https://t.co/O54jv08uDf : 0.0
+    [32.] she just sighs* : 0.0
+    [33.] Knight Arts Challenge People's Choice: Artefactus Aims to Tell Hispanic Stories on Stage  #art #Miami : 0.0
+    [34.] #News #US Mom, grandparents take pleas in case of starved 7-year-old (The Arizona Republic) http://t.co/8DuTu7IJIZ : 100.0
+    [35.] Remy Ma explains how incarcerated black women are routinely "forgotten" https://t.co/JAToZjlsze via @blackvoices : 0.0
+    [36.] Libertarian VP Candidate Basically Concedes Three Weeks Out From Election https://t.co/W8LJJc2sXR via @dailycaller : 100.0
+    [37.] Cops looking for man who tried to rape woman in Brooklyn https://t.co/iPbSA9XxRL https://t.co/Bx27BiXQeG : 100.0
+    [38.] Racist Cops are trophy-hunting Black ppl. #FergusonRemembers : 100.0
+    [39.] But then, you kinda miss the rough and rusty sound of the rev and the performance of your car that youve cracked earlier. : 0.0
+    [40.] Integrity is vital when most people's decisions aren't rational: your brand must deliver on its promises #thefuturestory #engagePRIDE : 0.0
+    [41.] Ricky- aka zesty, we go way back to the old days but we have also progressed a lot since then. You're pretty inactive which sucks but ily : 0.0
+    [42.] Nabeel... . Don't mess with my bb Leila  or I will cut youpic.twitter.com/ESSHVir3e4 : 0.0
