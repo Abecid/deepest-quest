@@ -1,0 +1,96 @@
+Examples:
+----------
+
+    
+    [0.] MSU reveals details for plan to set cowbell world record  #sports: 100.0
+[1.] #Hawaii #Maui #Oahu #Kauai Three bombings in Baghdad kill 63: police, medical sources http://ift.tt/27vapGK: 0.0
+[2.] Hot and humid summer days ahead https://t.co/HerLjvjIVf https://t.co/BnE5sNlJzF: 100.0
+[3.] Women are really good at doing fucked up shit low key  you'll never know till after you got played: 0.0
+[4.] Oh. Fuck you Hillary! https://t.co/OxCJzdGJOn: 100.0
+[5.] Laced up .. Ready .. Set go https://www.instagram.com/p/BFeGTjXyNWK/: 0.0
+[6.] Your just like I thought you were: 0.0
+[7.] Bellerin being omitted isn't a surprise pls. Wouldn't pick him over Carvajal and Juanfran. UEFA Euros, not Diamond League.: 0.0
+[8.] '@buzteezi they tweet about #blacklivesmatter like they get paid per tweet but walk to the other side of the street if the see black ppl': 100.0
+[9.] New #Book Our Daily Phill: Motivational, Wisdom Tips, &amp; Encouragement by Pastor Enoch Fletcher Narh https://t.co/CNFwyMCebb #Philadelphia: 100.0
+[10.] #WeedsIllegalBut thinking isn't.  For now. https://t.co/233dubdN09: 100.0
+[11.] Yo swamp  is the worst.: 0.0
+[12.] '@BlackGirlNerds Some days I wonder if I am the only one who has read the short story in which GRRM established that badtard targaryens can have dragons.': 100.0
+[13.] Good Sunday morning TRUMPERS! Join me for a cup of #Covfefe ... #IStandWithHannity #BoycottKeurig https://t.co/5B8BmoU4m5: 100.0
+[14.] Blizzard at #StandingRock but flags & fight remain unfazed. #NoDAPL https://t.co/kkAoZKONGS: 100.0
+[15.] Cuz they realizing his lyrics really fire Thug on some different shit niggas will never understandhttps://twitter.com/PabloThaWizard/status/732586949693726720 …: 0.0
+[16.] '@ANGRYref @ryanztweetz #TacoTuesday': 100.0
+[17.] The anti-American alt-left only coherent message of RESISTANCE &amp; HATRED will certainly lead to 8 years of PRESIDENT TRUMP! @TeaPainUSA: 100.0
+[18.] Wow, this is fucked up https://t.co/b5ArBrXmpn: 100.0
+[19.] #ICelebrateTrumpWith Throwing a TV from my window: 100.0
+[20.] Meh...guess the Moto X really is dead.https://twitter.com/verge/status/732524470406160384 …: 0.0
+[21.] AP EXPLAINS: What is affluenza?  #news: 100.0
+[22.] A new favorite: Jaye Clue & YT - We On! by Official CGE YT Page https://soundcloud.com/officialcgeyt/jaye-clue-yt-we-on … on #SoundCloud: 0.0
+[23.] *new pics of your fav all over the place*
+"Well... I THINK I saved this one already but... Might as well again just in case it's different.": 0.0
+[24.] Updates from @charlesfrize rocks. Have a look, share your favs too
+https://twitter.com/Charlesfrize/status/586512966008340480 … #Digital #Gro: 0.0
+[25.] XYZ Interactive's CEO Mike Kosic presenting on Wavefront's IoT conference.pic.twitter.com/ZewNyn23iM: 0.0
+[26.] Tmall Weibo
+http://ww3.sinaimg.cn/large/005vpiovgw1f3yic8y60kj30ku10atd1.jpg …
+http://ww2.sinaimg.cn/large/005vpiovgw1f3yic79lxlj30hs0sgjv6.jpg …pic.twitter.com/AvUayNWIkh: 0.0
+[27.] Should the announcement be right now, or in half an hour?: 0.0
+[28.] can he teach me this trick https://twitter.com/girlposts/status/731220161009733632/video/1 …: 0.0
+[29.] Gunfire kills 1, wounds 1 in 7th Ward, New Orleans police say https://t.co/7ObW1crzSy https://t.co/XybqLUPsjn: 100.0
+
+----------
+
+Classify the likelihood of the following tweets as spam (100) or not spam(0) :
+
+
+    
+    [0.] Cops shoot blacks almost everyday, and there are still people who denies #policeBrutality is quite an issue #AntiPoliceBrutalityDay
+[1.] #HAPPYTAEYANGDAY  Oppa,happy birthday to you, pic.twitter.com/47kRvAZzGJ
+[2.] RT @HoneyBadger10: Panthers in the super bowl. Black panther outfits. #staywoke
+[3.] Sorry my Twitter keeps posting my retweets a million times.
+[4.] Heart attack causes and symptoms are different in women  #health
+[5.] don't facetime me or ask for a selfie after 8pm. you know damn well i already showered and won't stop looking like a hamster till 8am
+[6.] it is the one reason that actually scares me .I was taught in school that Turkey was part of Asia only 3% in Europehttps://twitter.com/COLRICHARDKEMP/status/731959637302497280 …
+[7.] Our Latino Olympians: Puerto Rican Field Hockey Player Melissa Gonzalez https://t.co/rr0awGPcbi #RoadToRio #Rio2016 https://t.co/d0ikjen50F
+[8.] GBI: Man dies after being tazed by police during altercation and drug bust https://t.co/3lxNw77FaX https://t.co/DSw0VutXDd
+[9.] RT bocavista2016: DEAR #AMERICA  #FakeNews says #Antifa are non-violent  Do they look non-violent to you??  https://t.co/zwAy6qQlX8 #DoSom
+[10.] lol they be some big ones !?
+[11.] Stackable Spinner Ring in Beaded Sterling Silver R126 http://etsy.me/S7bh1W  #jewelryonetsy #CollectableJewelrypic.twitter.com/9RL1jPSHmn
+[12.] I want pancakes right now
+[13.] #Oakland voices: Trip to South Africa for West Oakland McClymonds High School students is 'transformative'  https://t.co/x3fuAE6jhG
+[14.] Swimming in the Shallow End of the Gene Pool. #schoolofhardknocksclasses
+[15.] Lol. Nigggggaaaaaaaahttps://twitter.com/yall_aint_shit/status/732587322655543296 …
+[16.] VIDEO: Blippar boss: 'I was quite a rebel': Rish Mitra began his career in the slums of Delhi ... http://bbc.in/1OBAdKZ  #tweetuk #kprs
+[17.] 'Little Giant' gets the spotlight thanks to Watergate https://t.co/5359ImlOox
+[18.] Hermosoo!pic.twitter.com/E8tJwWVJF0
+[19.] This nap is gonna find me
+[20.] Now why would DOJ under Obama deny (in a flunky lawsuit charging he wasn't born in Hawaii) he held a dual citizenship @LouiseMensch
+[21.] PAMM Collecting Legos for New Ai Weiwei Artwork  #art #Miami
+[22.] RT KORANISBURNING: 8 years of Obama  #Charlottesville
+[23.] Lug nuts and $35,000 fine still the talk around Tony Stewart  #sports
+[24.] @JohnLester Thank you Joh for following @mrslandlady of the Collect Back #Rent Training Course For #landlords
+[25.] Teen in Critical Condition After Brooklyn Hit-and-Run https://t.co/BdzsxGDmPp https://t.co/VnsZBTJnvR
+[26.] Revealed: Attitudes Top 20 Bachelors of the Year:  https://t.co/K8mor446We https://t.co/3HQviUZRSJ
+[27.] Hope. It's the only thing stronger than fear. #iHQ
+[28.] Trump team seeks records on #border barriers.  - https://t.co/vmYsoCHEtJ
+[29.] Don't forget putting people in the mix. Can ask people to go to highest place around & use sensor on their phone.https://twitter.com/feitenlangley/status/732410962729402368 …
+[30.] timtheearlyman
+[31.] An example of #innovation 2.0
+http://www.forbes.com/sites/stevensavage/2016/05/16/an-example-of-innovation-2-0/ …pic.twitter.com/ZCrQ4qQC6u
+[32.] I love rap. It's my favorite genre of music by far. But sometimes I gotta tell it to shut the fuck up.
+[33.] It is my #DirtyLittleSecret too!  @bbluntindia @AdhunaAkhtar pic.twitter.com/ppOtugyz8N
+[34.] Write a song a day.. #thingsido
+[35.] suffocated my name and started missing my chance
+[36.] Release Blitz: Waiting on Summer by Bella Settarra http://goo.gl/SnbHXI  via @ScarlettFlame2
+[37.] India 'extremely disturbed' by Ala. police treatment of citizen  #news
+[38.] Kimmel Backpedals, Says Hes NOT the Moral Compass of America  https://t.co/HR3iNoJmbt
+[39.] 24. we didn't choose the thug life, the thug life chose uspic.twitter.com/h3sqT2SWv7
+[40.] #ABCNews  #ABCGOPDebate Trump-ABC feud intensifies overdebate as he plans rival event
+[41.] I am more fabulous than you.
+[42.] Fun morning @FAUpresident @FloridaAtlantic BOT honoring @fauowlssoftball for championship season! #OWLin #22Strongpic.twitter.com/liKvTZBKaO
+[43.] Eat (more) Drink (more) &amp; Be Merry (more) #My2017Resolution
+[44.] Bay Area Highway Shut Down After Pair of Wild Horses Gallop Alongside Drivers https://t.co/UKXQODmRuC https://t.co/xAhJCJCdmf
+[45.] Orioles' Hardy suffers fractured foot  #sports
+[46.] Donald Trump under fire from Republicans for response to Charlottesvilleviolence https://t.co/AmrvYuPIUJ
+[47.] YOU BOUGHT THEM?
+[48.] Was wonderful to meet all of you today!https://twitter.com/mayasaryyeva/status/732571693307297792 …
+[49.] master
